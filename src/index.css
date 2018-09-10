@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.home .robot img {
+  position: absolute;
+  top: 10px;
+  left: 755px;
+  opacity: 0.5;
+  height: 130px;
+}
+
+.card {
+  cursor: pointer;
+}
+
+.home .robot {
+  overflow: hidden;
+  padding-left: 80px;
+}
+
+
