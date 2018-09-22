@@ -1,5 +1,5 @@
 This Robot app does the following things:
-* Displays a list of robots and their statuses
+* Displays a list of robots and their statuses taken from an API
 * Gives the ability to filter the list of robots based on status (online / offline) and display all robots
 * Gives the ability to click on a robot and view robot details
 
